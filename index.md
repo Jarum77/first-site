@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -88,7 +87,6 @@
 
   <hr size="2" noshade />
   <a href="Hobbies.html">My Hobbies</a>
-  <br / />
   <a href="Contact.html">Contact Me</a>
 </body>
 
